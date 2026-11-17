@@ -64,5 +64,121 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Heat Pump Pros is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://heatpumppros.fyi
+Heat Pump Pros connects homeowners with vetted heat pump installers across the United States. The platform offers searchable listings, detailed guides on selecting and maintaining heat pump systems, and resources for financing and rebates. It aims to simplify the transition to energy‑efficient heating and cooling solutions while supporting local contractors.
+
+**Areas:** Company · Heat Pumps · Homeowners · Installers · Energy Efficiency · Renewable Energy
+
+## Heat Pump Pros on APIs.io
+
+Everything profiled for Heat Pump Pros is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/heatpumppros-fyi/](https://apis.io/providers/heatpumppros-fyi/)** — or go straight to one of the APIs or properties below.
+
+### APIs (12)
+
+- [Heat Pump Pros API](https://apis.io/apis/heatpumppros-fyi/heat-pump-pros-api/) — Read-only public API for listings of heat pump installers.
+- [Heat Pump Pros Academy API](https://apis.io/apis/heatpumppros-fyi/heatpumppros-fyi-academy-api/) — The Academy API from Heat Pump Pros — 2 operation(s) for academy.
+- [Heat Pump Pros Admin API](https://apis.io/apis/heatpumppros-fyi/heatpumppros-fyi-admin-api/) — The Admin API from Heat Pump Pros — 160 operation(s) for admin.
+- [Heat Pump Pros Categories API](https://apis.io/apis/heatpumppros-fyi/heatpumppros-fyi-categories-api/) — The Categories API from Heat Pump Pros — 1 operation(s) for categories.
+- [Heat Pump Pros Certificates API](https://apis.io/apis/heatpumppros-fyi/heatpumppros-fyi-certificates-api/) — The Certificates API from Heat Pump Pros — 1 operation(s) for certificates.
+- [Heat Pump Pros Listings API](https://apis.io/apis/heatpumppros-fyi/heatpumppros-fyi-listings-api/) — The Listings API from Heat Pump Pros — 2 operation(s) for listings.
+- [Heat Pump Pros Places API](https://apis.io/apis/heatpumppros-fyi/heatpumppros-fyi-places-api/) — The Places API from Heat Pump Pros — 1 operation(s) for places.
+- [Heat Pump Pros Product Categories API](https://apis.io/apis/heatpumppros-fyi/heatpumppros-fyi-product-categories-api/) — The Product Categories API from Heat Pump Pros — 1 operation(s) for product categories.
+- [Heat Pump Pros Products API](https://apis.io/apis/heatpumppros-fyi/heatpumppros-fyi-products-api/) — The Products API from Heat Pump Pros — 2 operation(s) for products.
+- [Heat Pump Pros Sources API](https://apis.io/apis/heatpumppros-fyi/heatpumppros-fyi-sources-api/) — The Sources API from Heat Pump Pros — 1 operation(s) for sources.
+- [Heat Pump Pros Sponsor API](https://apis.io/apis/heatpumppros-fyi/heatpumppros-fyi-sponsor-api/) — The Sponsor API from Heat Pump Pros — 2 operation(s) for sponsor.
+- [Heat Pump Pros Stats API](https://apis.io/apis/heatpumppros-fyi/heatpumppros-fyi-stats-api/) — The Stats API from Heat Pump Pros — 1 operation(s) for stats.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Heat Pump Pros Agentic Access](https://apis.io/agentic-access/heatpumppros-fyi/heatpumppros-fyi-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Heatpumppros Fyi Context](https://apis.io/jsonld/heatpumppros-fyi/heatpumppros-fyi-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Heat Pump Pros API Rules](https://apis.io/rules/heatpumppros-fyi/heatpumppros-fyi-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Heat Pump Pros Domain Security](https://apis.io/security/heatpumppros-fyi/heatpumppros-fyi-domain-security/)
+- [Heat Pump Pros Vulnerability Disclosure](https://apis.io/security/heatpumppros-fyi/heatpumppros-fyi-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://heatpumppros.fyi)
+- [Documentation](https://heatpumppros.fyi/developers)
+- [Pricing](https://heatpumppros.fyi/terms)
+- [Support](https://heatpumppros.fyi/contact)
+- [Terms of service](https://heatpumppros.fyi/terms)
+- [Privacy policy](https://heatpumppros.fyi/privacy)
+
+## API Evangelist rating
+
+**Kin Score 40.4** — developing · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 78.6 |
+| Contract quality | 45.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 20.7 |
+| Access clarity | 25.5 |
+
+**Agent readiness 44.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | yes |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 20.5** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/heatpumppros-fyi/](https://apis.io/providers/heatpumppros-fyi/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Heat Pump Pros: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/heatpumppros-fyi/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
